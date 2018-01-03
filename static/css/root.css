@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#root{
+    width:800px;
+    height:40px;
+    margin:auto;
+    background: #cccccc;
+}
+.title{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+}
+.title>a{
+    font-size: 14px;
+}
